@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p> 
 -->
 
+<h3>Never Stop the Learning ... </h3>
+
 - <img src="https://cdn-icons-png.flaticon.com/512/2282/2282188.png" style="width: 25px; height: 25px" alt="learning code">  I'm a web development student
 
 <!-- 
